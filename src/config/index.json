@@ -1,0 +1,133 @@
+{
+  "company": {
+    "name": "Oxitocinas",
+    "logo": "/assets/images/logo1.PNG"
+  },
+  "navigation": [
+    {
+      "name": "Home",
+      "href": "product"
+    },
+    {
+      "name": "Livro",
+      "href": "features"
+    },
+
+    {
+      "name": "Autora",
+      "href": "pricing"
+    }
+  ],
+  "callToAction": {
+    "text": "Comprar!",
+    "href": "https://www.amazon.com/OXITOCINAS-caminhos-reconexão-melhor-Portuguese-ebook/dp/B0D98VQR7S/ref=sr_1_3?crid=1JNKZPIWYAOIF&dib=eyJ2IjoiMSJ9.prQw55FFG03vyfDzVHigzofZV7xCd4-pBObgcEW3s1GCWzX8vWNqTHx4W9QvheRyfvuxvAZSz_W7qwZcLwnfG1y6tYrWdSs6jyS_cXw25G0.3fA758bSISk1qjospcQT7ESAKcsbnfRkhOJfqfw4V-4&dib_tag=se&keywords=oxitocinas&qid=1721040052&s=digital-text&sprefix=oxitocina%2Cdigital-text%2C191&sr=1-3"
+  },
+  "mainHero": {
+    "title": "OXITOCINAS",
+    "subtitle": "e os caminhos de reconexão com nosso melhor",
+    "description": "Ebook disponivel na amazon!",
+    "img": "/assets/images/book.jpg",
+    "primaryAction": {
+      "text": "Comprar ja!",
+      "href": "https://www.amazon.com/OXITOCINAS-caminhos-reconexão-melhor-Portuguese-ebook/dp/B0D98VQR7S/ref=sr_1_3?crid=1JNKZPIWYAOIF&dib=eyJ2IjoiMSJ9.prQw55FFG03vyfDzVHigzofZV7xCd4-pBObgcEW3s1GCWzX8vWNqTHx4W9QvheRyfvuxvAZSz_W7qwZcLwnfG1y6tYrWdSs6jyS_cXw25G0.3fA758bSISk1qjospcQT7ESAKcsbnfRkhOJfqfw4V-4&dib_tag=se&keywords=oxitocinas&qid=1721040052&s=digital-text&sprefix=oxitocina%2Cdigital-text%2C191&sr=1-3"
+    },
+    "secondaryAction": {
+      "text": "Sobre o livro",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Mas Informaçao",
+    "items": [
+      {
+        "title": "Sobre o livro",
+        "description": "Oxitocinas e os caminhos de reconexão com nosso melhor é um convite à esperança paara aqueles que acreditam no poder da união para moldar um mundo mais igualitário. Geisa Mourão compartilha aqui sua jornada de reinvenção, enriquecida por inúmeras histórias de mulheres brasileiras, tanto no Brasil quanto além-fronteiras, funcionando como um guia prático para líderes que enfrentam  desafios e solidão ao liderar movimentos femininos e destacando a importância da autocompaixão e do respeito mútuo.",
+        "img": "/assets/images/FotosVi1.jpg"
+      },
+      {
+        "title": "Geisa Mourao",
+        "description": "Geisa Mourão, empreendedora social, comunicóloga com especialização em Marketing. Após 22 anos de mundo corporativo, atuando como executiva na área comercial, deixou o Brasil em 2008 acompanhando a expatriação de seu marido com 2 filhos pequenos. Intensificou  os estudos do autodesenvolvimento, certificando-se em Coach pelo IPEC - Institute for Professional Excellence in Coaching em Los Angeles- EUA. Recomeçou suas atividades com mulheres expatriadas e imigrantes na Suíça em 2017, quando criou a plataforma colaborativa - OXITOCINAS - e hoje através da associação leva a mentoria \"Reconectando com sua Melhor Versão\" - com valores sociais - para mulheres que busquem o fortalecimento em suas próprias reinvenções de Vida.",
+        "img": "/assets/images/IMG_4744.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Onde comprar ?",
+    "items": [
+      {
+        "name": "Editora Helvetia",
+        "price": "R$54.90",
+        "priceDetails": "+ fret",
+        "features": [""]
+      },
+      {
+        "name": "Amazon",
+        "price": "25.-",
+        "priceDetails": "leitores na suissa",
+
+        "features": ["Leitores da suissa"]
+      },
+      {
+        "name": "Distributin 3",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": []
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Amazon",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "livro fisico no Brazil Editoria Helvetia",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Store 2",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Geisa Mourao",
+        "href": "#",
+        "content": "Geisa Mourão, empreendedora social, comunicóloga com especialização em Marketing. Após 22 anos de mundo corporativo, atuando como executiva na área comercial, deixou o Brasil em 2008 acompanhando a expatriação de seu marido com 2 filhos pequenos. Intensificou  os estudos do autodesenvolvimento, certificando-se em Coach pelo IPEC - Institute for Professional Excellence in Coaching em Los Angeles- EUA. Recomeçou suas atividades com mulheres expatriadas e imigrantes na Suíça em 2017, quando criou a plataforma colaborativa - OXITOCINAS - e hoje através da associação leva a mentoria \"Reconectando com sua Melhor Versão\" - com valores sociais - para mulheres que busquem o fortalecimento em suas próprias reinvenções de Vida."
+      }
+    ],
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/geisamourao_reconectando/",
+      "linkedin": "https://www.linkedin.com/in/geisamourao-reconectando/recent-activity/all/?trk=public_post_follow-articles"
+    }
+  }
+}
