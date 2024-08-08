@@ -1,5 +1,5 @@
 // components/VideoSection.js
-import { title } from 'process';
+
 import React from 'react';
 
 const VideoSection = ({}) => {
@@ -8,7 +8,7 @@ const VideoSection = ({}) => {
       <h2></h2>
       <div className="video-container">
       
-      <iframe width="660" height="415" src="https://www.youtube.com/embed/HnRUR86PTxU?si=s7BPQXOmic7IEm6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="660" height="415" src="https://www.youtube.com/embed/HnRUR86PTxU?si=s7BPQXOmic7IEm6M" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
       </div>
       <style jsx>{`
         .video-section {
