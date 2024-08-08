@@ -5,7 +5,11 @@ import config from '../config/index.json';
 const About = () => {
   const { company, about } = config;
   const { logo, name: companyName } = company;
+<<<<<<< HEAD
   const { socialMedia} = about;
+=======
+  const { socialMedia } = about;
+>>>>>>> bd6b3cfcedccd64daed0a27eb7ed2850d749298f
 
   return (
     <div
