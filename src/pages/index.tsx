@@ -37,8 +37,10 @@ const App = () => {
       </LazyShow>
       
       <LazyShow>
+        <>
         <VideoSection />
         <SignUp />
+        </>
       </LazyShow>
       
       <LazyShow>
